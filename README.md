@@ -1,6 +1,6 @@
-# Object.toSting()
+# Object.seal()
 
-Extend `Object.prototype` with the method `toSting()`, which logs an image of Sting to the development console.
+Extend `Object.prototype` with the method `seal()`, which logs an image of Seal to the development console.
 
 Works at least on recent versions of Chrome.
 
@@ -8,6 +8,6 @@ Works at least on recent versions of Chrome.
 
 ## Image Credits
 
-Lionel Urman, [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0)
+Eva Rinaldi, [CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0/)
 
-https://en.wikipedia.org/wiki/Sting_(musician)#/media/File:Sting_ThePolice_2007.jpg
+https://en.wikipedia.org/wiki/Seal_(musician)#/media/File:Seal_2012.jpg
