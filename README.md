@@ -4,7 +4,7 @@ Extend `Object.prototype` with the method `seal()`, which logs an image of Seal 
 
 Works at least on recent versions of Chrome.
 
-![Example](example.png)
+![Example](example-seal.png)
 
 ## Image Credits
 
